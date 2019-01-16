@@ -2,6 +2,7 @@
 [![Windows build status][win-build-image]][win-build-url]
 [![Tests coverage][cov-image]][cov-url]
 ![Transpilation status][transpilation-image]
+[![npm version][npm-image]][npm-url]
 
 # 2-thenable
 
