@@ -51,7 +51,7 @@ npm test
 
 [nix-build-image]: https://semaphoreci.com/api/v1/medikoo-org/2-thenable/branches/master/shields_badge.svg
 [nix-build-url]: https://semaphoreci.com/medikoo-org/2-thenable
-[win-build-image]: https://ci.appveyor.com/api/projects/status/?svg=true
+[win-build-image]: https://ci.appveyor.com/api/projects/status/hl2x00pu0ds4kj5m?svg=true
 [win-build-url]: https://ci.appveyor.com/api/project/medikoo/2-thenable
 [cov-image]: https://img.shields.io/codecov/c/github/medikoo/2-thenable.svg
 [cov-url]: https://codecov.io/gh/medikoo/2-thenable
