@@ -58,3 +58,4 @@ npm test
 [cov-url]: https://codecov.io/gh/medikoo/2-thenable
 [transpilation-image]: https://img.shields.io/badge/transpilation-free-brightgreen.svg
 [npm-image]: https://img.shields.io/npm/v/2-thenable.svg
+[npm-url]: https://www.npmjs.com/package/2-thenable
